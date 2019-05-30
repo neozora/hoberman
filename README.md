@@ -1,2 +1,2 @@
 # hoberman
-JSON file compression system.
+CSV file compression system.
